@@ -25,10 +25,10 @@ bash
 Copy
 Edit
 LibrarySystem/
-├── Book.java                 # Book class with title, author, and availability
-├── Library.java              # Handles all library operations using ArrayList
-├── Main.java                 # Menu-driven main program
-└── books.txt (optional)      # File for storing book data (bonus)
+ Book.java                 # Book class with title, author, and availability
+ Library.java              # Handles all library operations using ArrayList
+Main.java                 # Menu-driven main program
+books.txt (optional)      # File for storing book data (bonus)
 📥 How to Run
 Step 1: Compile the code
 Open command prompt in the project directory:
@@ -66,8 +66,8 @@ ArrayList<Book> to store dynamic book data
 File read/write using FileWriter and Scanner (Bonus)
 
 Simple terminal UI
-
-📦 Future Improvements
+-------------------------
+📦** Future Improvements**
 Add login/authentication
 
 Track issued books per student
